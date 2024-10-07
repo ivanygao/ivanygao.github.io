@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: ivanygao@uw.edu
+subtitle: [ivanygao@uw.edu](mailto:ivanygao@uw.edu)
 
 profile:
   align: right
