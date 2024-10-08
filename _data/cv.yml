@@ -13,21 +13,43 @@
 - title: Education
   type: time_table
   contents:
-    - title: Master of Science in Applied and Computational Mathematics
-      institution: University of Washington - Seattle
-      year: 2024-09 - Present
-      url: https://amath.washington.edu/master-science-applied-and-computational-mathematics
+    - title: M.S., Applied and Computational Mathematics
+      institution: University of Washington - Seattle - USA
+      year: 2024-09-Present
       description:
-        - title: General Information
-          type: map
-          contents:
-            - name: Program Page
-              value: https://amath.washington.edu/master-science-applied-and-computational-mathematics
-            - name: People Page
-              value: https://amath.washington.edu/people/yuan-gao
         - AMATH501 Vector Calculus and Complex Variables
         - AMATH522 Computational Modeling of Biological Systems
         - AMATH581 Scientific Computing
+    - title: B.S., Mathematics, Minor in Statistics (with distinction)
+      institution: University of British Columbia - Vancouver - Canada
+      year: 2019-09-2024-05
+      description:
+        - TODO
+
+- title: Awards
+  type: time_table
+  contents:
+    - title: UBC MURC 2024 REX Awards (URO) - Poster Presentation First Place
+      institution: University of British Columbia - Vancouver - Canada
+      year: 2024-04
+      description:
+        - TODO
+
+- title: Scholarship
+  type: time_table
+  contents:
+    - title: Trek Excellence Scholarship (International Students)
+      institution: University of British Columbia - Vancouver - Canada
+      year: 2020-09-2021-05
+      description:
+        - The Trek Excellence Scholarship offers $1,000 awards to international students in the top 5% in their undergraduate year, faculty, and school.
+
+- title: Honours
+  type: time_table
+  contents:
+    - title: Dean's List
+      institution: Department of Mathematics, University of British Columbia - Vancouver - Canada
+      year: 2020-09-2021-05
 
 - title: Experience
   type: time_table
