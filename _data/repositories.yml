@@ -1,7 +1,7 @@
 github_users:
   - IvanGao1024 
 
-repo_description_lines_max: 4
+repo_description_lines_max: 3
 
 github_repos:
   - IvanGao1024/UBC_2024REX_IAV_Diffusion
