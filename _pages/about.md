@@ -2,14 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: >
-    <p>email: ivanygao@uw.edu</p>
-    <p>Location: Seattle, Washington</p>
+subtitle: ivanygao@uw.edu
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
+  more_info: >
+    <p>Current Location: Seattle, Washington</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
