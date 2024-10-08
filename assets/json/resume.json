@@ -2,7 +2,7 @@
   "basics": {
     "name": "Yuan Gao",
     "email": "ivanygao@uw.edu",
-    "url": "https://amath.washington.edu/people/yuan-gao"
+    "url": "https://ivangao1024.github.io/"
   },
   "education": [
     {
@@ -12,7 +12,9 @@
       "area": "Applied and Computational Mathematics",
       "studyType": "Master of Science",
       "startDate": "2024-09-25",
-      "courses": ["Vector Calculus and Complex Variables", "Computational Modeling of Biological Systems", "Scientific Computing"]
+      "courses": ["AMATH501 Vector Calculus and Complex Variables", 
+        "AMATH522 Computational Modeling of Biological Systems",
+        "AMATH581 Scientific Computing"]
     },
     {
       "institution": "University of British Columbia",
@@ -35,12 +37,11 @@
   ],
   "scholarships": [
     {
-      "title": "Trek Excellence Scholarship (International Students), UBC",
-      "date": "2024-04",
+      "title": "Trek Excellence Scholarship (International Students)",
       "awarder": "University of British Columbia",
       "startDate": "2020-09",
       "endDate": "2021-05",
-      "summary": "The Trek Excellence Scholarship offers $1,000 awards to international students in the top 10% in their undergraduate year, faculty, and school."
+      "summary": "The Trek Excellence Scholarship offers $1,000 awards to international students in the top 5% in their undergraduate year, faculty, and school."
     }
   ],
   "honours": [
@@ -48,8 +49,6 @@
       "title": "Dean's List",
       "date": "2020-04",
       "awarder": "University of British Columbia, Department of Mathematics",
-      "startDate": "2020-09",
-      "endDate": "2021-05"
     }
   ],
   "work": [
