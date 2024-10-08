@@ -16,4 +16,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Currently a student at the University of Washington in the [Master of Science in Applied and Computational Mathematics](https://amath.washington.edu/people/yuan-gao) program.
+I'm currently a student in the University of Washington Applied Math department, pursuing a Master of Science in Applied and Computational Mathematics. You can find more details on my profile on the department's [People Page](https://amath.washington.edu/people/yuan-gao). I recently graduated from the University of British Columbia with a Bachelor of Science in Mathematics and a minor in Statistics, with distinction in 2024.
