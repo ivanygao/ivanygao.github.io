@@ -18,10 +18,6 @@
       value: React, Redux, RTK Query, Ant Design, Bootstrap, Material-UI, Axios; Django + REST + CORS
     - name: Frameworks and Libraries
       value: Qt6, OpenCL, OpenMP, Google Test/Mock/Benchmark
-    - name: Tools and Software
-      value: Jupyter Lab, VS Code, RStudio, IntelliJ
-    - name: Operating Systems
-      value: Manjaro, Ubuntu 20.04, Arch Linux, Windows 10
 
 
 - title: Research Experience
