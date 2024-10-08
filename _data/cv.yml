@@ -93,7 +93,7 @@
         - Implemented OpenCL and OpenMP to achieve faster computational speeds, making the iteration process 5 times faster. Now able to iterate over a 3000 x 3000 grid with the D2Q9 lattice in 11 seconds on an Intel UHD 620 chip.
 
 - title: Projects
-  type: map
+  type: time_table
   contents:
     - name: Personal Platform
       year: Jan. 2024 - Present
@@ -150,7 +150,7 @@
         - Applied full test-driven development with detailed documentation and adhered to strict naming conventions, following SOLID principles of object-oriented design.
 
 - title: Community Involvement and Outreach
-  type: section
+  type: time_table
   contents:
     - title: UBC Math Circle Workshops Mentor
       year: Sep. 2023 - Dec. 2023
