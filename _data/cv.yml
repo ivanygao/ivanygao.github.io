@@ -6,7 +6,7 @@
     - name: email
       value: ivanygao@uw.edu
     - name: website
-      value: <a href="https://ivangao1024.github.io/">https://ivangao1024.github.io/</a>
+      value: <a href="https://ivanygao.github.io/">https://ivanygao.github.io/</a>
     - name: Languages
       value: Mandarin (native), English (fluent)
 
@@ -23,10 +23,11 @@
 - title: Research Experience
   type: time_table
   contents:
-    - title: Undergraduate Research Experience Program (URO REX) - Math Bio Group
+    - title: <a href="https://github.com/ivanygao/UBC_2024REX_IAV_Diffusion">Undergraduate Research Experience Program (URO REX) - Math Bio Group</a>
       institution: Department of Mathematics, University of British Columbia - Vancouver - Canada
       year: 2023-11-2024-04
       description:
+        - <b>mentor:</b> Liam Yih
         - Investigate on how various Influenza A virus (IAV) receptor organizations influence its mobility under the presence of antibody.
         - Implement a Julia-based simulation of filamentous IAV dynamics with periodic boundary conditions and restricted random movement.
         - Write a comprehensive report along with a demonstration poster which has been used to present at the Multidisciplinary Undergraduate Research Conference (MURC) at the University of British Columbia.
@@ -44,12 +45,12 @@
 - title: Awards
   type: time_table
   contents:
-    - title: <a href="https://github.com/IvanGao1024/UBC_2024REX_IAV_Diffusion">UBC MURC 2024 REX Awards (URO) - Poster Presentation First Place</a>
+    - title: <a href="https://github.com/ivanygao/UBC_2024REX_IAV_Diffusion">UBC MURC 2024 REX Awards (URO) - Poster Presentation First Place</a>
       institution: University of British Columbia - Vancouver - Canada
       year: 2024-04
       description:
         Investigating the Influence of Various Receptor Organizations on Filamentous Influenza A Motility Under the Presence of Antibodies
-
+      
 - title: Scholarship
   type: time_table
   contents:

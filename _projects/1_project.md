@@ -5,5 +5,5 @@ description: Investigating the Influence of Various Receptor Organizations on Fi
 img:
 importance: 1
 category: research
-redirect: https://github.com/IvanGao1024/UBC_2024REX_IAV_Diffusion
+redirect: https://github.com/ivanygao/UBC_2024REX_IAV_Diffusion
 ---
