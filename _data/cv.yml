@@ -2,31 +2,32 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Yuan Gao
+    - name: email
+      value: ivanygao@uw.edu
+    - name: website
+      value: https://ivangao1024.github.io/
     - name: Languages
-      value: English, German
+      value: Mandarin (native), English (fluent)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master of Science in Applied and Computational Mathematics
+      institution: University of Washington - Seattle
+      year: 2024-09 - Present
+      url: https://amath.washington.edu/master-science-applied-and-computational-mathematics
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: General Information
+          type: map
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+            - name: Program Page
+              value: https://amath.washington.edu/master-science-applied-and-computational-mathematics
+            - name: People Page
+              value: https://amath.washington.edu/people/yuan-gao
+        - AMATH501 Vector Calculus and Complex Variables
+        - AMATH522 Computational Modeling of Biological Systems
+        - AMATH581 Scientific Computing
 
 - title: Experience
   type: time_table
