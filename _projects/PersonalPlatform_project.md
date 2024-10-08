@@ -1,9 +1,10 @@
 ---
 layout: page
-title: PersonalPlatform
+title: PersonalPlatform CC
 description: An integrated single-page application designed to help you organize every aspect of your life.
 importance: 1
 category: work
+redirect: https://unsplash.com
 ---
 
 Every project has a beautiful feature showcase page.
