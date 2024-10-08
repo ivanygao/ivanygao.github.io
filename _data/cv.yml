@@ -93,7 +93,7 @@
         - Implemented OpenCL and OpenMP to achieve faster computational speeds, making the iteration process 5 times faster. Now able to iterate over a 3000 x 3000 grid with the D2Q9 lattice in 11 seconds on an Intel UHD 620 chip.
 
 - title: Projects
-  type: time_table
+  type: map
   contents:
     - name: Personal Platform
       year: Jan. 2024 - Present
@@ -148,3 +148,34 @@
       description:
         - Created interactive software using Java and the Spring framework to implement Conway's Game of Life rules, supporting Von Neumann, Moore, and Extended Moore neighborhoods, as well as fixed, reflexive, and periodic boundary conditions.
         - Applied full test-driven development with detailed documentation and adhered to strict naming conventions, following SOLID principles of object-oriented design.
+
+- title: Community Involvement and Outreach
+  type: section
+  contents:
+    - title: UBC Math Circle Workshops Mentor
+      year: Sep. 2023 - Dec. 2023
+      description:
+        - Assisted in delivering hands-on mathematics workshops for 4th to 7th graders, fostering an environment of curiosity and exploration.
+        - Distributed, maintained, and organized group activity materials.
+        - Provided helpful hints and guided students to understand math concepts.
+
+    - title: Imagine UBC 2023 Orientation Leader – Faculty of Science
+      year: Sep. 2023 - Oct. 2023
+      description:
+        - Created and maintained a supportive and engaged community for approximately ten new-to-UBC students, fostering a sense of friendship and belonging while serving as an ambassador for student leadership within the Faculty of Science.
+        - Facilitated and assisted with the planning, organization, and delivery of the Imagine UBC orientation activities while ensuring effective and timely communication.
+        - Pursued personal and professional growth by developing key competencies in areas such as communication, teamwork, problem-solving, initiative, and adaptability.
+        - Demonstrated a commitment to equity and inclusion, respecting all people and their differences, providing referrals to campus resources, and participating in ongoing training related to these topics.
+
+    - title: Elmacon 2023 Volunteer Exam Grader
+      year: 2023-04-29
+      description:
+        - Graded math contest exam papers in an accurate, efficient manner while adhering to set marking guidelines to ensure fairness and consistency.
+        - Collaborated with the exam coordinating team, ensuring smooth progress of the grading process and promptly communicating any issues or updates.
+
+    - title: GVRSF 2023 UBC Campus Guide Volunteer Lab Tours Leader
+      year: 2023-04-14
+      description:
+        - Led and managed a group of 12 participants, ensuring a safe, secure, and educational tour experience within the UBC Physics Project Lab.
+        - Facilitated interactive and informative lab tours, effectively communicating the purpose and details of various projects, experiments, and activities within the physics lab.
+        - Upheld and enforced safety protocols during lab tours, ensuring all participants comply with the lab's safety regulations and practices.
