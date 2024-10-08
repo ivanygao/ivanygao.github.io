@@ -1,12 +1,10 @@
 ---
 layout: page
-title: project game
+title: Game
 description: initiation phase
 img:
 importance: 1
 category: fun
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+In development. Will redirect to steam page once published.
