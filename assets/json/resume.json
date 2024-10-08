@@ -48,13 +48,13 @@
     {
       "title": "Dean's List",
       "date": "2020-04",
-      "awarder": "University of British Columbia, Department of Mathematics",
+      "awarder": "University of British Columbia, Department of Mathematics"
     }
   ],
   "work": [
     {
-      "name": "University of British Columbia",
-      "position": "Undergraduate Teaching Assistant",
+      "name": "University of British Columbia, Department of Mathematics",
+      "position": "Undergraduate Teaching Assistant for MATH101 (Integral Calculus with Applications",
       "startDate": "2023-01",
       "endDate": "2023-04",
       "summary": "Facilitated instructor-led teaching, hosted discussions, and graded homework for two sections, totaling 71 students."
