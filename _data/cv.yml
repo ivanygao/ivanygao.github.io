@@ -91,3 +91,60 @@
         - Conducted a comprehensive study using <i>Lattice Boltzmann Method - Fundamentals and Engineering Applications with Computer Codes</i> by A. A. Mohamad.
         - Developed a D2Q9 library using C++ and Julia to replicate textbook examples of non-isothermal incompressible fluid simulations.
         - Implemented OpenCL and OpenMP to achieve faster computational speeds, making the iteration process 5 times faster. Now able to iterate over a 3000 x 3000 grid with the D2Q9 lattice in 11 seconds on an Intel UHD 620 chip.
+
+- title: Projects
+  type: time_table
+  contents:
+    - name: Personal Platform
+      year: Jan. 2024 - Present
+      role: Project Owner and Lead Developer
+      description:
+        - Developed a single-page application utilizing React + Redux as the front-end and Django REST API as the back-end, with UI designed using Ant Design.
+        - Implemented authentication using tokens and cookies, and managed internet communication through Axios.
+        - Initial version was developed using Bootstrap for the UI, followed by a second version utilizing Material-UI before transitioning to Ant Design for the latest version.
+        - Created an automatic CI/CD pipeline combined with Dockerfile for automatic deployment in a custom registry, deployed using Docker Compose.
+
+    - name: D2Q9 Fluid Simulation
+      year: Sept. 2021 - Present
+      role: Project Owner and Lead Developer
+      description:
+        - Developed a high-performance fluid dynamics simulation framework based on the D2Q9 Lattice Boltzmann Method using C++ and Julia.
+        - Conducted a self-directed study of the fundamental theory of the Lattice Boltzmann Method, utilizing the book <i>Lattice Boltzmann Method - Fundamentals and Engineering Applications with Computer Codes</i> by A. A. Mohamad.
+        - Developed a D2Q9 library using C++ and Julia to replicate textbook examples of non-isothermal incompressible fluid simulations.
+        - Implemented OpenCL and OpenMP to achieve faster computational speeds, making the iteration process 5 times faster. Now able to iterate over a 3000 x 3000 grid with the D2Q9 lattice in 11 seconds on an Intel UHD 620 chip.
+        - Applied rigorous code quality and performance metrics, using testing tools such as gTest, gBenchmark, and gcovr to ensure the framework's robustness and scalability.
+        - Employed technologies including C++17 and Qt 6.5.0 for cross-platform support on Windows 10 and Linux. Leveraged tools such as CMake, Doxygen, and Pandoc for generating Game Design Documents and project management-related files, as well as Valgrind.
+
+    - name: Investigation and Application of Richardson Extrapolation
+      year: Sept. 2022 - Dec. 2022
+      role: Project Member
+      description:
+        - Participated in an in-depth investigation into the theory of Richardson Extrapolation.
+        - Conducted a comprehensive study on the Bulirsch-Stoer Algorithm as an application of Richardson Extrapolation, discussing in detail three major assumptions of the algorithm and the procedures taken.
+        - Presented the findings to the class.
+
+    - name: Investigation of the Average Wine Quality in Portugal
+      year: Sept. 2022 - Dec. 2022
+      role: Project Initiator and Lead Data Analyst
+      description:
+        - Initiated the project and organized all group meetings, setting timelines and milestones to drive project progress.
+        - Calculated the required sample size in alignment with a predefined margin of error to ensure the representativeness and accuracy of the study.
+        - Explored and compared different sampling methods, including stratified and cluster sampling, evaluating their accuracy and applicability for the study.
+        - Applied selected sampling techniques to real-world data related to the quality of Portuguese wine, effectively representing the quality distribution and contributing to our understanding of the factors that influence it.
+
+    - name: Exploration of Factors that Influence the Final Sale Price of One-Family Dwellings in the City of Vancouver Between 2016-2019
+      year: Jul. 2022 - Aug. 2022
+      role: Project Initiator and Lead Data Analyst
+      description:
+        - Monitored the project, organizing all group meetings, establishing timelines, and setting milestones to drive the project's progress.
+        - Executed rigorous data cleaning using mean imputation methods and calculated the sample size, ensuring robustness by accounting for the margin of error.
+        - Performed data transformation using logarithms to address heteroscedasticity, ensuring more reliable statistical inferences.
+        - Utilized Mallows's Cp and stepwise variable selection for model selection and conducted collinearity tests to improve model accuracy.
+        - Trained the model using k-fold cross-validation and carried out model diagnostics with residual plots and normal QQ plots. Collaborated on strategies for outlier removal to enhance model predictability.
+
+    - name: Conway's Game of Life Simulator
+      year: Sept. 2019 - Dec. 2019
+      role: Personal Project
+      description:
+        - Created interactive software using Java and the Spring framework to implement Conway's Game of Life rules, supporting Von Neumann, Moore, and Extended Moore neighborhoods, as well as fixed, reflexive, and periodic boundary conditions.
+        - Applied full test-driven development with detailed documentation and adhered to strict naming conventions, following SOLID principles of object-oriented design.
