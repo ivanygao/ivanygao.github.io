@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: CV
+title: Curriculum Vitae
 nav: true
 nav_order: 1
 cv_pdf: CurriculumVitae_YuanGao_English.pdf
