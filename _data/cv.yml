@@ -71,3 +71,13 @@
       year: 2019-09-2024-05
       description:
         - TODO
+        
+- title: Additional Training
+  type: time_table
+  contents:
+    - title: Lattice Boltzmann Method - Self-Directed Study
+      year: 2023-03 to 2023-08
+      description:
+        - Conducted a comprehensive study using <i>Lattice Boltzmann Method - Fundamentals and Engineering Applications with Computer Codes</i> by A. A. Mohamad.
+        - Developed a D2Q9 library using C++ and Julia to replicate textbook examples of non-isothermal incompressible fluid simulations.
+        - Implemented OpenCL and OpenMP to achieve faster computational speeds. Successfully iterated over a 3000 x 3000 grid under the D2Q9 lattice construction in 11 seconds on an Intel UHD 620 chip.
