@@ -98,7 +98,7 @@
     - name: Personal Platform
       year: 2024-01 - Present
       description:
-        - <b>Role</b> Project Owner and Lead Developer
+        - <b>Role:</b> Project Owner and Lead Developer
         - Developed a single-page application utilizing React + Redux as the front-end and Django REST API as the back-end, with UI designed using Ant Design.
         - Implemented authentication using tokens and cookies, and managed internet communication through Axios.
         - Initial version was developed using Bootstrap for the UI, followed by a second version utilizing Material-UI before transitioning to Ant Design for the latest version.
@@ -106,7 +106,7 @@
     - name: D2Q9 Fluid Simulation
       year: 2021-09 - Present
       description:
-        - <b>Role</b> Project Owner and Lead Developer
+        - <b>Role:</b> Project Owner and Lead Developer
         - Developed a high-performance fluid dynamics simulation framework based on the D2Q9 Lattice Boltzmann Method using C++ and Julia.
         - Conducted a self-directed study of the fundamental theory of the Lattice Boltzmann Method, utilizing the book _Lattice Boltzmann Method - Fundamentals and Engineering Applications with Computer Codes_ by A. A. Mohamad.
         - Developed a D2Q9 library using C++ and Julia to replicate textbook examples of non-isothermal incompressible fluid simulations.
@@ -116,14 +116,14 @@
     - name: Investigation and Application of Richardson Extrapolation
       year: 2022-09 - 2022-12
       description:
-        - <b>Role</b> Project Member
+        - <b>Role:</b> Project Member
         - Participated in an in-depth investigation into the theory of Richardson Extrapolation.
         - Conducted a comprehensive study on the Bulirsch-Stoer Algorithm as an application of Richardson Extrapolation, discussing in detail three major assumptions of the algorithm and the procedures taken.
         - Presented the findings to the class.
     - name: Investigation of the Average Wine Quality in Portugal
       year: 2022-09 - 2022-12
       description:
-        - <b>Role</b> Project Initiator and Lead Data Analyst
+        - <b>Role:</b> Project Initiator and Lead Data Analyst
         - Initiated the project and organized all group meetings, setting timelines and milestones to drive project progress.
         - Calculated the required sample size in alignment with a predefined margin of error to ensure the representativeness and accuracy of the study.
         - Explored and compared different sampling methods, including stratified and cluster sampling, evaluating their accuracy and applicability for the study.
@@ -131,7 +131,7 @@
     - name: Exploration of Factors that Influence the Final Sale Price of One-Family Dwellings in the City of Vancouver Between 2016-2019
       year: 2022-07 - 2022-08
       description:
-        - <b>Role</b> Project Initiator and Lead Data Analyst
+        - <b>Role:</b> Project Initiator and Lead Data Analyst
         - Monitored the project, organizing all group meetings, establishing timelines, and setting milestones to drive the project's progress.
         - Executed rigorous data cleaning using mean imputation methods and calculated the sample size, ensuring robustness by accounting for the margin of error.
         - Performed data transformation using logarithms to address heteroscedasticity, ensuring more reliable statistical inferences.
@@ -140,7 +140,7 @@
     - name: Conway's Game of Life Simulator
       year: 2019-09 - 2019-12
       description:
-        - <b>Role</b> Personal Project
+        - <b>Role:</b> Personal Project
         - Created interactive software using Java and the Spring framework to implement Conway's Game of Life rules, supporting Von Neumann, Moore, and Extended Moore neighborhoods, as well as fixed, reflexive, and periodic boundary conditions.
         - Applied full test-driven development with detailed documentation and adhered to strict naming conventions, following SOLID principles of object-oriented design.
 
