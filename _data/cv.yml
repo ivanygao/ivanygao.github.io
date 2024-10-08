@@ -10,6 +10,20 @@
     - name: Languages
       value: Mandarin (native), English (fluent)
 
+- title: Skills
+  type: map
+  contents:
+    - name: Web Development
+      value: Front-end: React, Redux, RTK Query, Ant Design, Bootstrap, Material-UI, Axios; Back-end: Django, REST, CORS
+    - name: Programming Languages
+      value: C++, Julia, R, Python, Shell, LATEX, Markdown, JavaScript, Java, Lua, CMake, Dockerfile
+    - name: Frameworks and Libraries
+      value: Qt6, OpenCL, OpenMP, Google Test/Mock/Benchmark
+    - name: Tools and Software
+      value: Jupyter Lab, VS Code, RStudio, IntelliJ
+    - name: Operating Systems
+      value: Manjaro, Ubuntu 20.04, Arch Linux, Windows 10
+
 - title: Research Experience
   type: time_table
   contents:
@@ -71,7 +85,7 @@
       year: 2019-09-2024-05
       description:
         - TODO
-        
+
 - title: Additional Training
   type: time_table
   contents:
@@ -80,4 +94,4 @@
       description:
         - Conducted a comprehensive study using <i>Lattice Boltzmann Method - Fundamentals and Engineering Applications with Computer Codes</i> by A. A. Mohamad.
         - Developed a D2Q9 library using C++ and Julia to replicate textbook examples of non-isothermal incompressible fluid simulations.
-        - Implemented OpenCL and OpenMP to achieve faster computational speeds. Successfully iterated over a 3000 x 3000 grid under the D2Q9 lattice construction in 11 seconds on an Intel UHD 620 chip.
+        - Implemented OpenCL and OpenMP to achieve faster computational speeds, making the iteration process 5 times faster. Now able to iterate over a 3000 x 3000 grid with the D2Q9 lattice in 11 seconds on an Intel UHD 620 chip.
