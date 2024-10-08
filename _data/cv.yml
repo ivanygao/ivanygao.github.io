@@ -80,7 +80,20 @@
       institution: University of British Columbia - Vancouver - Canada
       year: 2019-09-2024-05
       description:
-        - TODO
+        - CPSC221 Basic Algorithms and Data Structures
+        - STAT443 Time Series and Forecasting
+        - STAT406 Methods for Statistical Learning
+        - STAT305 Introduction to Statistical Inference
+        - STAT302 Introduction to Probability
+        - MATH450 Asymptotic and Perturbation Methods
+        - MATH405 Numerical Methods for Differential Equations
+        - MATH400 Applied Partial Differential Equations
+        - MATH342 Algebra and Coding Theory
+        - MATH341 Introduction to Discrete Mathematics
+        - MATH340 Introduction to Linear Programming
+        - MATH312 Introduction to Number Theory
+        - MATH307 Applied Linear Algebra
+        - MATH303 Introduction to Stochastic Processes
 
 - title: Additional Training
   type: time_table
