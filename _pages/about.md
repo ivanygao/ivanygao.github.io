@@ -13,7 +13,7 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 Currently a student at the University of Washington in the [Master of Science in Applied and Computational Mathematics](https://amath.washington.edu/people/yuan-gao) program.
