@@ -44,11 +44,11 @@
 - title: Awards
   type: time_table
   contents:
-    - title: UBC MURC 2024 REX Awards (URO) - Poster Presentation First Place
+    - title: <a href="https://github.com/IvanGao1024/UBC_2024REX_IAV_Diffusion">UBC MURC 2024 REX Awards (URO) - Poster Presentation First Place</a>
       institution: University of British Columbia - Vancouver - Canada
       year: 2024-04
       description:
-        - TODO
+        Investigating the Influence of Various Receptor Organizations on Filamentous Influenza A Motility Under the Presence of Antibodies
 
 - title: Scholarship
   type: time_table
